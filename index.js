@@ -1,2 +1,2 @@
-console.log("Hi")
-console.log("before your push")
+console.log("hello git")
+console.log("hello git")
